@@ -26,4 +26,4 @@ if __name__ == '__main__':
             client.load_extension(f"cogs.{file[:-3]}")
 
 
-client.run('NzkxOTg3Mzg5NTU5OTk2NDI2.X-XJvA.4E176on3HkJ4Q3Jp99xslrce5-s')
+client.run('My_Token')
