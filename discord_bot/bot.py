@@ -16,7 +16,7 @@ async def unload(ctx, extension):
     client.unload_extension(f'cogs.{extension}')
     ctx.send('Extension unloaded.')
 
-cwd = "/home/hellhound/PycharmProjects/pythonProject/discord_bot"
+cwd = "PATH/TO/FILE/DIRECTORY"
 cwd = str(cwd)
 print(cwd)
 
